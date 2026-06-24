@@ -1,0 +1,37 @@
+# Copyright (c) 2026 Ideatrino <ideatrino@proton.me>
+# All Rights Reserved. See LICENSE.
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tessera-protocol"
+version = "0.1.0"
+description = "Information-theoretic authentication meets post-quantum defense-in-depth secure messaging."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "LicenseRef-Proprietary" }
+authors = [{ name = "Ideatrino", email = "ideatrino@proton.me" }]
+keywords = [
+  "cryptography", "secure-messaging", "post-quantum", "one-time-pad",
+  "information-theoretic-security", "forward-secrecy", "ratchet",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Topic :: Security :: Cryptography",
+  "Programming Language :: Python :: 3",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/ideatrino/tessera-protocol"
+Documentation = "https://github.com/ideatrino/tessera-protocol/blob/main/docs/TESSERA_protocol.md"
+Issues = "https://github.com/ideatrino/tessera-protocol/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

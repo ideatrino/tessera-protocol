@@ -1,0 +1,76 @@
+TESSERA Protocol — Proprietary License (Source-Available)
+Copyright (c) 2026 Ideatrino <ideatrino@proton.me>
+All Rights Reserved.
+
+================================================================================
+1. OWNERSHIP
+================================================================================
+This software and its associated documentation, specifications, and materials
+(the "Software") are the exclusive property of Ideatrino ("the Licensor"). The
+Software is made publicly viewable ("source-available") for transparency,
+evaluation, and study. Public visibility does NOT place the Software in the
+public domain and does NOT grant any license except as expressly stated below.
+
+================================================================================
+2. LIMITED GRANT (NON-COMMERCIAL EVALUATION & RESEARCH)
+================================================================================
+Subject to the terms below, the Licensor grants you a worldwide, royalty-free,
+non-exclusive, non-transferable, revocable license to:
+
+  (a) view and read the source code;
+  (b) compile and run the Software for personal, academic, or internal
+      evaluation and research purposes; and
+  (c) create modifications solely for the purposes in (b),
+
+PROVIDED THAT such use is NON-COMMERCIAL. "Non-Commercial" means not primarily
+intended for or directed toward commercial advantage or monetary compensation.
+
+================================================================================
+3. RESERVED RIGHTS — COMMERCIAL USE REQUIRES A SEPARATE LICENSE
+================================================================================
+All rights not expressly granted in Section 2 are reserved by the Licensor.
+Without a separate written commercial license from the Licensor, you may NOT:
+
+  (a) use the Software, in whole or in part, in any product, service, or
+      system offered for sale, license, subscription, or other commercial gain;
+  (b) distribute, sublicense, sell, rent, lease, or host the Software for
+      third parties;
+  (c) remove or alter any copyright, attribution, or license notice; or
+  (d) use the Licensor's names or marks to endorse derived works.
+
+To obtain a commercial license, contact: ideatrino@proton.me
+(See LICENSING.md for the dual-license commercial model.)
+
+================================================================================
+4. NO WARRANTY — SECURITY DISCLAIMER
+================================================================================
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE SOFTWARE IS EXPERIMENTAL CRYPTOGRAPHY THAT HAS NOT BEEN INDEPENDENTLY
+AUDITED, FORMALLY PROVEN, OR HARDENED AGAINST SIDE-CHANNEL ATTACKS. IT MUST NOT
+BE RELIED UPON TO PROTECT REAL SECRETS OR PEOPLE. See SECURITY.md.
+
+================================================================================
+5. LIMITATION OF LIABILITY
+================================================================================
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+6. TERMINATION
+================================================================================
+This license terminates automatically upon any breach of its terms. Upon
+termination you must cease all use and destroy all copies in your possession.
+
+================================================================================
+7. GOVERNING LAW
+================================================================================
+This license is governed by the laws of the jurisdiction in which the Licensor
+resides, without regard to conflict-of-laws principles. If any provision is held
+unenforceable, the remaining provisions remain in effect.
+
+For commercial licensing inquiries: ideatrino@proton.me

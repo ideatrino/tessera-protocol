@@ -1,0 +1,13 @@
+TESSERA Protocol
+Copyright (c) 2026 Ideatrino <ideatrino@proton.me>
+All Rights Reserved.
+
+This product includes original cryptographic protocol design and a reference
+implementation authored by Ideatrino.
+
+The ChaCha20 stream cipher is implemented to the specification in IETF RFC 8439
+(public standard). The GF(2^255-19) prime field is a public mathematical
+constant. No third-party source code is bundled in this project.
+
+Licensed under the terms in LICENSE (source-available, All Rights Reserved).
+See LICENSING.md for commercial terms and SECURITY.md for the security status.
