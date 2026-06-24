@@ -2,7 +2,7 @@
 
 **One-line summary:** An authenticated, forward-secure, post-quantum, defense-in-depth messaging protocol whose **integrity is information-theoretically unbreakable** and whose **confidentiality reaches Shannon-perfect secrecy** whenever a true shared-entropy budget allows — and degrades gracefully to layered post-quantum security when it doesn't.
 
-> **The name.** A *tessera hospitalis* in ancient Rome was a small token (often a clay or bone tile) deliberately broken into two halves. Two parties each kept one half; fitting the halves back together proved their bond — a physical shared secret. That is exactly the metaphor for this protocol, so it is named **TESSERA**. (Rename it whatever you like — it's yours.)
+> **The name.** A *tessera hospitalis* in ancient Rome was a small token (often a clay or bone tile) deliberately broken into two halves. Two parties each kept one half; fitting the halves back together proved their bond — a physical shared secret. That is exactly the metaphor for this protocol, so it is named **TESSERA**. 
 
 ---
 
